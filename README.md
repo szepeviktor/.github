@@ -2,4 +2,4 @@
 
 Please consider sponsoring my work.
 
-[![Sponsor](assets/github-like-sponsor-button.svg)](https://github.com/sponsors/szepeviktor)
+[![Sponsor](.github/assets/github-like-sponsor-button.svg)](https://github.com/sponsors/szepeviktor)
